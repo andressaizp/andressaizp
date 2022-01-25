@@ -2,7 +2,7 @@
 
 - 🌱 Atualmente, estudo JavaScript e Python;
 - 📫 Meu e-mail é andressaizp@gmail.com;
-- 😄 Dá uma olhadinha no meu Linkedin: linkedin.com/andressaizp;
+- 😄 Dá uma olhadinha no meu Linkedin! Link na imagem ali embaixo ↓
 - 😄 Passando da área comercial para o desenvolvimento.
 
 <div align="center">
